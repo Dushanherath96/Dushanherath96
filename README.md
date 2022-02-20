@@ -23,3 +23,8 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+### Certifications
+
+[![Azure](https://img.shields.io/badge/-Azure-%234479A1?style=flat&logo=AZURE&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/)
+
