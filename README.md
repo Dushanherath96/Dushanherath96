@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Dushan Herath 👋
 
-<!--
-**Dushanherath96/Dushanherath96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working as a software developer-intern at [H One Private Limited, Sri Lanka](https://www.h-oneonline.com/)
+- 🌱 I studied at [KDU, Sri Lanka](https://kdu.ac.lk) for a degree of B.Sc(hons) in Information Technology.
+- 👯 I’m looking to collaborate Java, Angular, JavaScript, .NET related projects.
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dushan1855@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dushan-herath-a0ba551a4)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DushanHerath96)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Familiar Operating Systems & Tools
+
+[![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
+### Familiar Operating Systems & Tools
+
+[![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23001ACC?style=flat&logo=angular&logoColor=white)](https://getbootstrap.com/)
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
