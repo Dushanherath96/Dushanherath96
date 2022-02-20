@@ -26,5 +26,5 @@
 
 ### Certifications
 
-[![Azure](https://img.shields.io/badge/-Azure-%234479A1?style=flat&logo=AZURE&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/)
+[![Azure](https://img.shields.io/badge/-Azure-%234479A1?style=flat&logo=AZURE&logoColor=white)](https://www.credly.com/users/dushan-herath)
 
