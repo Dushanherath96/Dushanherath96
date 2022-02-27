@@ -18,13 +18,19 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23001ACC?style=flat&logo=angular&logoColor=white)](https://getbootstrap.com/)
+[![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=windows&logoColor=white)](https://angular.io/)
+[![Microsoft Power Platforms](https://img.shields.io/badge/-PowerPlatForms-3C8D91?style=flat&logo=windows&logoColor=white)](https://powerplatform.microsoft.com/en-us/)
+
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
+### UI/UX Designs
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style==flat&logo=figma&logoColor=white)](https://www.figma.com/)
+
 ### Certifications
 
-[![Azure](https://img.shields.io/badge/-Azure-%234479A1?style=flat&logo=AZURE&logoColor=white)](https://www.credly.com/users/dushan-herath)
+[![Azure](https://img.shields.io/badge/-Azure-%234479A1?style=flat&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/dushan-herath)
 
