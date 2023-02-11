@@ -1,7 +1,7 @@
 # Hi, I'm Dushan Herath 👋
 
 - 💻 I’m currently working as a Software Engineer at [IFS R&D International (Pvt) Ltd]([https://www.h-oneonline.com/](https://www.srilankabusiness.com/exporters-directory/company-profiles/ifs-r-d-international-pvt-ltd/))
-- 🌱 I studied at [KDU, Sri Lanka](https://kdu.ac.lk) for a degree of B.Sc(hons) in Information Technology.
+- 🌱 I graduate in Bsc(Hons) Information Technology with Second Class Lower Division at [KDU, Sri Lanka](https://kdu.ac.lk) for a degree of B.Sc(hons) in Information Technology.
 - 👯 I’m looking to collaborate Java, Angular, JavaScript, .NET related projects.
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dushan1855@gmail.com)
