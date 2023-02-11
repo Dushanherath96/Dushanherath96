@@ -1,6 +1,6 @@
 # Hi, I'm Dushan Herath 👋
 
-- 💻 I’m currently working as a software developer-intern at [H One Private Limited, Sri Lanka](https://www.h-oneonline.com/)
+- 💻 I’m currently working as a Software Engineer at [IFS R&D International (Pvt) Ltd]([https://www.h-oneonline.com/](https://www.srilankabusiness.com/exporters-directory/company-profiles/ifs-r-d-international-pvt-ltd/))
 - 🌱 I studied at [KDU, Sri Lanka](https://kdu.ac.lk) for a degree of B.Sc(hons) in Information Technology.
 - 👯 I’m looking to collaborate Java, Angular, JavaScript, .NET related projects.
 
